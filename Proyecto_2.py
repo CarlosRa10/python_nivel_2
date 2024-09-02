@@ -1,7 +1,7 @@
 #Programa que calcule la comision de sus ventas totales
 #Su nombre y cuanto han vendido este mes
 #Ok Carlos. Este mes ganaste tanto
-#necesitas inputs, clacular comisiones esel monto * comision / 100
+#necesitas inputs, calcular comisiones del monto * comision / 100
 
 nombre = input("Ingrese su nombre: ")
 ventas = float(input("Cuanto has vendido este mes: "))
