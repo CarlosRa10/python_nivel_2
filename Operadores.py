@@ -5,7 +5,7 @@ z = 7
 print(f"{x}+{y} es igual a {x+y}")
 print(f"{x}-{y} es igual a {x-y}")
 print(f"{x}*{y} es igual a {x*y}")
-print(f"{x}/{y} es igual a {x/y}")
+print(f"{x}/{y} es igual a {x/y}")# La división de dos números siempre es un número flotante
 
 #División al piso = si es decimal lo lleva a entero hacia abajo
 print(f"{z} dividido al piso de {y} es igual a {z//y}")

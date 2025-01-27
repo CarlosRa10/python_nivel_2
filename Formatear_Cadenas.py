@@ -3,7 +3,7 @@ y = 5
 z = x + y
 print("Mis números son " + str(x) + " y " + str(y))#Se hizo conversiones y concatenaciones.. no es nada practico
 print("Mis números son {} y {}".format(x,y))#Funcion format
-print(f"Mis números son {x} y {y}")#Formato literal
+print(f"Mis números son {x} y {y}")#Cadenas literales, implementado en python 3.6
 print("La suma de {} y {} es igual a {}".format(x,y,z))#Funcion format
 
 color = "rojo"
